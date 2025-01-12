@@ -5,7 +5,7 @@ export default function F2() {
     <>
       <h1>F2 page</h1>
       <div>
-        <Link href="/f4">F4</Link>
+        <Link href="/f1/f4">F4</Link>
       </div>
     </>
   );
